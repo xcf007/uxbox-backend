@@ -12,3 +12,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ```
 
 [1]: https://github.com/uxbox/uxbox-docker
+
+
+set npm_config_python=D:\apps\Anaconda3\envs\python27\python.exe
+npm install gulp-sass@2.3.2
